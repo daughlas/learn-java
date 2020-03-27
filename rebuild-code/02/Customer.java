@@ -53,10 +53,10 @@ class Customer {
         }
         break;
       case Movie.NEW_RELEASE:
-      result += aRental.getDaysRented() * 3;
+        result += aRental.getDaysRented() * 3;
         break;
       case Movie.CHILDRENS:
-      result += (aRental.getDaysRented() - 3) * 1.5;
+        result += (aRental.getDaysRented() - 3) * 1.5;
         break;
     }
     return result;
