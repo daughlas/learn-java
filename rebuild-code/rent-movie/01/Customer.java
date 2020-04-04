@@ -1,3 +1,5 @@
+import java.util.*;
+
 public class Customer {
   private String _name;
   private Vector _rentals = new Vector();
@@ -32,7 +34,7 @@ public class Customer {
         case Movie.NEW_RELEASE:
           thisAmount += each.getDaysRented() * 3;
           break;
-        case Movie.CHILDRENS:
+        case Movie.CHILDREN:
           thisAmount += (each.getDaysRented() - 3) * 1.5;
           break;
       }
@@ -57,4 +59,5 @@ public class Customer {
     result += "You earned " + String.valueOf(frequentRenterPoints) + " frequent renter points";
     return result;
   }
+
 }
