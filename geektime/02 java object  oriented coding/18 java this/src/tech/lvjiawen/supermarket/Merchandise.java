@@ -21,6 +21,11 @@ public class Merchandise {
         return count;
     }
 
+    /**
+     * 检查库存够不够目标库存数
+     * @param count 目标库存数
+     * @return 大于等于目标库存 true，小于目标库存 false
+     */
     public boolean hasEnoughCountFor(int count) {
         return this.count >= count;
     }
