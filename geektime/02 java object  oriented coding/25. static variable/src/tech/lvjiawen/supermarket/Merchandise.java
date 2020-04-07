@@ -10,6 +10,10 @@ public class Merchandise {
     public static double DISCOUNT_FOR_VIP = 0.95;
     static int STATIC_VARIABLE_CURR_PACKAGE_ONLY = 100;
 
+    public static double getVIPDiscount() {
+        return DISCOUNT_FOR_VIP;
+    }
+
     public Merchandise(String name, String id, int count, double soldPrice, double purchasePrice) {
         this.name = name;
         this.id = id;
