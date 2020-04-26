@@ -1,3 +1,5 @@
+import java.util.*;
+
 public class Customer {
   private String _name;
   private Vector _rentals = new Vector();
@@ -57,4 +59,5 @@ public class Customer {
     result += "You earned " + String.valueOf(frequentRenterPoints) + " frequent renter points";
     return result;
   }
+
 }
