@@ -33,6 +33,8 @@ public class Customer {
     return result;
   }
 
+
+
   public String statement() {
     Enumeration rentals = _rentals.elements();
     String result = "Rental Record for " + getName() + "\n";
