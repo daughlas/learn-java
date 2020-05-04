@@ -1,9 +1,6 @@
 import org.junit.Test;
 
-import java.sql.Connection;
-import java.sql.DriverManager;
-import java.sql.SQLException;
-import java.sql.Statement;
+import java.sql.*;
 
 public class JDBCDemo2 {
     @Test
@@ -29,6 +26,58 @@ public class JDBCDemo2 {
         } catch (Exception e) {
             e.printStackTrace();
         } finally {
+            if (stmt != null) {
+                try {
+                    stmt.close();
+                } catch (SQLException e) {
+                    e.printStackTrace();
+                }
+                stmt = null;
+            }
+
+            if (conn != null) {
+                try {
+                    conn.close();
+                } catch (SQLException e) {
+                    e.printStackTrace();
+                }
+                conn = null;
+            }
+        }
+    }
+
+    @Test
+    public void demoQuery() {
+        Connection conn = null;
+        Statement stmt = null;
+        ResultSet rs = null;
+
+        try {
+            Class.forName("com.mysql.jdbc.Driver");
+
+            conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/jdbctest", "root", "abc2553947");
+
+            stmt = conn.createStatement();
+
+            String sql = "SELECT * FROM user where uid = 2";
+
+            rs = stmt.executeQuery(sql);
+
+            if (rs.next()) {
+                System.out.println(rs.getInt("uid") + "   " + rs.getString("username"));
+            }
+
+        } catch(Exception e) {
+            e.printStackTrace();
+        } finally {
+            if (rs != null) {
+                try {
+                    rs.close();
+                } catch (SQLException e) {
+                    e.printStackTrace();
+                }
+            }
+
             if (stmt != null) {
                 try {
                     stmt.close();

@@ -1,3 +1,7 @@
+import com.sun.deploy.util.StringUtils;
+
+import java.util.Arrays;
+
 public class StingConcat {
     public static void main(String[] args) {
         int a = 10;
@@ -13,6 +17,5 @@ public class StingConcat {
         System.out.println("a + b =" + (a + b));
 
         System.out.println("a * b=" + a * b);
-
     }
 }
