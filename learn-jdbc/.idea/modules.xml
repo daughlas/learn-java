@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/learn-jdbc.iml" filepath="$PROJECT_DIR$/.idea/learn-jdbc.iml" />
-      <module fileurl="file://$PROJECT_DIR$/learnJDBC/learnJDBC.iml" filepath="$PROJECT_DIR$/learnJDBC/learnJDBC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn-jdbc.iml" filepath="$PROJECT_DIR$/learn-jdbc.iml" />
     </modules>
   </component>
 </project>
