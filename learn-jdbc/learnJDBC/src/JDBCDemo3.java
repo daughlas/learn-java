@@ -1,4 +1,5 @@
-import org.junit.jupiter.api.Test;
+
+import org.junit.Test;
 import tech.lvjiawen.jdbc.utils.JDBCUtils;
 
 import java.sql.Connection;

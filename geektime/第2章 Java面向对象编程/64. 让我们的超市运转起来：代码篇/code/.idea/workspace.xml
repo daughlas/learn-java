@@ -1,36 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b9ca2f84-05d8-4077-96d5-64ef2eec51d0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../../jdbc/.idea/jdbc.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../learn-jdbc/learn-jdbc.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../learn-jdbc/learnJDBC/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../learn-jdbc/learnJDBC/.idea/learnJDBC.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../learn-jdbc/learnJDBC/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../learn-jdbc/learnJDBC/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../learn-jdbc/learnJDBC/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../learn-jdbc/learnJDBC/src/JDBCDemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../learn-jdbc/learnJDBC/src/tech/lvjiawen/jdbc/utils/JDBCUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../learn-spring-mybatis/src/main/java/tech/lvjiawen/learnspringmybatis/jdbc/model/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../learn-spring-mybatis/src/main/java/tech/lvjiawen/learnspringmybatis/jdbc/repository/EmployeeMyBatisRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../learn-jdbc/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../learn-jdbc/.idea/dataSources.local.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../learn-jdbc/.idea/dataSources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../learn-jdbc/.idea/dataSources/5d74f010-7cb0-48ad-b17d-f6de5c6fa1f2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../learn-jdbc/.idea/dataSources/5d74f010-7cb0-48ad-b17d-f6de5c6fa1f2/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../learn-jdbc/.idea/dataSources/c0e46a32-8797-4977-8131-ed6786ef2b84.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../learn-jdbc/.idea/dataSources/c0e46a32-8797-4977-8131-ed6786ef2b84/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../learn-jdbc/.idea/learn-jdbc.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../learn-jdbc/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../learn-jdbc/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../learn-jdbc/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../learn-jdbc/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../learn-jdbc/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../learn-jdbc/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../learn-jdbc/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../learn-jdbc/learnJDBC/src/JDBCDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../learn-jdbc/learnJDBC/src/JDBCDemo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../learn-jdbc/learnJDBC/src/JDBCDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../learn-jdbc/learnJDBC/src/JDBCDemo2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../learn-jdbc/out/production/learnJDBC/JDBCDemo1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../learn-jdbc/out/production/learnJDBC/JDBCDemo2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../learn-jdbc/out/production/learnJDBC/TestJDBC.class" beforeDir="false" />
-    </list>
+    <list default="true" id="b9ca2f84-05d8-4077-96d5-64ef2eec51d0" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,7 +57,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1554045859402</updated>
-      <workItem from="1588648995533" duration="8121000" />
+      <workItem from="1588648995533" duration="8941000" />
     </task>
     <servers />
   </component>

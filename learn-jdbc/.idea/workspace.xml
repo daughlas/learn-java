@@ -2,32 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bda809ed-6b64-4ac9-a2e0-45eda0e8ffca" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/learnJDBC/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learnJDBC/.idea/learnJDBC.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learnJDBC/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learnJDBC/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learnJDBC/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learnJDBC/src/JDBCDemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learnJDBC/src/tech/lvjiawen/jdbc/utils/JDBCUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../learn-spring-mybatis/src/main/java/tech/lvjiawen/learnspringmybatis/jdbc/model/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../learn-spring-mybatis/src/main/java/tech/lvjiawen/learnspringmybatis/jdbc/repository/EmployeeMyBatisRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/5d74f010-7cb0-48ad-b17d-f6de5c6fa1f2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/5d74f010-7cb0-48ad-b17d-f6de5c6fa1f2/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/c0e46a32-8797-4977-8131-ed6786ef2b84.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/c0e46a32-8797-4977-8131-ed6786ef2b84/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/learn-jdbc.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/learnJDBC/src/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learnJDBC/src/tech/lvjiawen/jdbc/demo/JDBCDemo4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../geektime/第2章 Java面向对象编程/64. 让我们的超市运转起来：代码篇/code/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../geektime/第2章 Java面向对象编程/64. 让我们的超市运转起来：代码篇/code/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../geektime/第2章 Java面向对象编程/64. 让我们的超市运转起来：代码篇/code2/src/tech/lvjiawen/supermarket/impl/AbsCustomer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../geektime/第2章 Java面向对象编程/64. 让我们的超市运转起来：代码篇/code2/src/tech/lvjiawen/supermarket/impl/AbsCustomer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc/.idea/jdbc.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn-jdbc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/learn-jdbc.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/learnJDBC/src/JDBCDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/learnJDBC/src/JDBCDemo1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/learnJDBC/src/JDBCDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/learnJDBC/src/JDBCDemo2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learnJDBC/JDBCDemo1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learnJDBC/JDBCDemo2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learnJDBC/TestJDBC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/learnJDBC/src/JDBCDemo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/learnJDBC/src/JDBCDemo3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learnJDBC/src/tech/lvjiawen/jdbc/utils/JDBCUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/learnJDBC/src/tech/lvjiawen/jdbc/utils/JDBCUtils.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,8 +48,11 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.JDBCDemo4.demo2">
     <configuration name="JDBCDemo1.demo1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="learn-jdbc" />
       <option name="PACKAGE_NAME" value="" />
@@ -71,8 +63,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="JDBCDemo4.demo2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="learn-jdbc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tech.lvjiawen.jdbc.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tech.lvjiawen.jdbc.demo" />
+      <option name="MAIN_CLASS_NAME" value="tech.lvjiawen.jdbc.demo.JDBCDemo4" />
+      <option name="METHOD_NAME" value="demo2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.JDBCDemo4.demo2" />
         <item itemvalue="JUnit.JDBCDemo1.demo1" />
       </list>
     </recent_temporary>
@@ -88,6 +97,7 @@
       <option name="presentableId" value="Default" />
       <updated>1588645680797</updated>
       <workItem from="1588645682290" duration="843000" />
+      <workItem from="1588691586204" duration="3339000" />
     </task>
     <servers />
   </component>
@@ -95,10 +105,39 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1719" y="437" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1588646293563">
-      <screen x="68" y="23" width="2492" height="1057" />
+    <state width="1416" height="280" key="GridCell.Tab.0.bottom" timestamp="1588695113948">
+      <screen x="52" y="23" width="2508" height="1057" />
+    </state>
+    <state width="1416" height="280" key="GridCell.Tab.0.bottom/52.23.2508.1057/260.1080.1920.1200@52.23.2508.1057" timestamp="1588695113948" />
+    <state width="1416" height="280" key="GridCell.Tab.0.bottom/53.23.2507.1057/260.1080.1920.1200@53.23.2507.1057" timestamp="1588694987097" />
+    <state width="1416" height="280" key="GridCell.Tab.0.center" timestamp="1588695113947">
+      <screen x="52" y="23" width="2508" height="1057" />
+    </state>
+    <state width="1416" height="280" key="GridCell.Tab.0.center/52.23.2508.1057/260.1080.1920.1200@52.23.2508.1057" timestamp="1588695113947" />
+    <state width="1416" height="280" key="GridCell.Tab.0.center/53.23.2507.1057/260.1080.1920.1200@53.23.2507.1057" timestamp="1588694987096" />
+    <state width="1416" height="280" key="GridCell.Tab.0.left" timestamp="1588695113947">
+      <screen x="52" y="23" width="2508" height="1057" />
+    </state>
+    <state width="1416" height="280" key="GridCell.Tab.0.left/52.23.2508.1057/260.1080.1920.1200@52.23.2508.1057" timestamp="1588695113947" />
+    <state width="1416" height="280" key="GridCell.Tab.0.left/53.23.2507.1057/260.1080.1920.1200@53.23.2507.1057" timestamp="1588694987095" />
+    <state width="1416" height="280" key="GridCell.Tab.0.right" timestamp="1588695113948">
+      <screen x="52" y="23" width="2508" height="1057" />
+    </state>
+    <state width="1416" height="280" key="GridCell.Tab.0.right/52.23.2508.1057/260.1080.1920.1200@52.23.2508.1057" timestamp="1588695113948" />
+    <state width="1416" height="280" key="GridCell.Tab.0.right/53.23.2507.1057/260.1080.1920.1200@53.23.2507.1057" timestamp="1588694987096" />
+    <state x="1217" y="118" key="SettingsEditor" timestamp="1588693892442">
+      <screen x="53" y="23" width="2507" height="1057" />
+    </state>
+    <state x="1217" y="118" key="SettingsEditor/53.23.2507.1057/260.1080.1920.1200@53.23.2507.1057" timestamp="1588693892442" />
+    <state x="1688" y="369" key="com.intellij.ide.util.TipDialog" timestamp="1588691587305">
+      <screen x="60" y="23" width="2500" height="1057" />
+    </state>
+    <state x="1688" y="369" key="com.intellij.ide.util.TipDialog/60.23.2500.1057/260.1080.1920.1200@60.23.2500.1057" timestamp="1588691587305" />
+    <state x="1714" y="437" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1588693695917">
+      <screen x="53" y="23" width="2507" height="1057" />
     </state>
     <state x="1719" y="437" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/473.1080.1680.1050/68.23.2492.1057@68.23.2492.1057" timestamp="1588646293563" />
+    <state x="1714" y="437" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/53.23.2507.1057/260.1080.1920.1200@53.23.2507.1057" timestamp="1588693695917" />
     <state x="1215" y="234" key="new project wizard" timestamp="1588646444723">
       <screen x="68" y="23" width="2492" height="1057" />
     </state>

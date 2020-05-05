@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/jdbc.iml" filepath="$PROJECT_DIR$/.idea/jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/04. Java 异常的传递.iml" filepath="$PROJECT_DIR$/.idea/04. Java 异常的传递.iml" />
     </modules>
   </component>
 </project>

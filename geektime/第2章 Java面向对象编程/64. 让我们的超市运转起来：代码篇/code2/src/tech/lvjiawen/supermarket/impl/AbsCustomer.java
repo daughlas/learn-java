@@ -11,7 +11,9 @@ public abstract class AbsCustomer implements Customer {
     private Category shouldBuy;
     private String custId;
     private double moneySpent;
+    // 还能逛几类商品
     private int guangLeft = 0;
+    // 逛 left 的初始值
     private int guangCount = 0;
 
     public static final int DEFAULT_GUANG_COUNT = 5;
@@ -47,7 +49,7 @@ public abstract class AbsCustomer implements Customer {
     @Override
     public boolean wantToCheckout() {
         guangLeft--;
-        return guangLeft < 0;
+        return guangLeft <= 0;
     }
 
     @Override

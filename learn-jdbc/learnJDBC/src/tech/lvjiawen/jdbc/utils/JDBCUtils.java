@@ -1,6 +1,9 @@
 package tech.lvjiawen.jdbc.utils;
 
+import java.io.IOException;
+import java.io.InputStream;
 import java.sql.*;
+import java.util.Properties;
 
 /**
  * JDBC 的工具类
@@ -13,10 +16,19 @@ public class JDBCUtils {
     private static final String password;
 
     static  {
-        driverClass = "com.mysql.jdbc.Driver";
-        url = "jdbc:mysql://localhost:3306";
-        username = "root";
-        password  = "abc2553947";
+        // 加载属性文件并解析
+        Properties props = new Properties();
+        // 类的加载器，获取文件的输入流
+        InputStream is = JDBCUtils.class.getClassLoader().getResourceAsStream("jdbc.properties");
+        try {
+            props.load(is);
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        driverClass = props.getProperty("driverClass");
+        url = props.getProperty("url");
+        username = props.getProperty("username");
+        password  = props.getProperty("password");
     }
 
     /**
