@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bda809ed-6b64-4ac9-a2e0-45eda0e8ffca" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/learnJDBC/src/jdbc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learnJDBC/src/tech/lvjiawen/jdbc/demo/JDBCDemo4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../geektime/第2章 Java面向对象编程/64. 让我们的超市运转起来：代码篇/code/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../geektime/第2章 Java面向对象编程/64. 让我们的超市运转起来：代码篇/code/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../geektime/第2章 Java面向对象编程/64. 让我们的超市运转起来：代码篇/code2/src/tech/lvjiawen/supermarket/impl/AbsCustomer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../geektime/第2章 Java面向对象编程/64. 让我们的超市运转起来：代码篇/code2/src/tech/lvjiawen/supermarket/impl/AbsCustomer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jdbc/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jdbc/.idea/jdbc.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jdbc/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jdbc/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jdbc/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-jdbc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/learn-jdbc.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learnJDBC/src/JDBCDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/learnJDBC/src/JDBCDemo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learnJDBC/src/JDBCDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/learnJDBC/src/JDBCDemo2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learnJDBC/src/JDBCDemo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/learnJDBC/src/JDBCDemo3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learnJDBC/src/tech/lvjiawen/jdbc/utils/JDBCUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/learnJDBC/src/tech/lvjiawen/jdbc/utils/JDBCUtils.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,6 +84,7 @@
       <updated>1588645680797</updated>
       <workItem from="1588645682290" duration="843000" />
       <workItem from="1588691586204" duration="3339000" />
+      <workItem from="1588751736816" duration="695000" />
     </task>
     <servers />
   </component>
@@ -129,9 +116,10 @@
       <screen x="53" y="23" width="2507" height="1057" />
     </state>
     <state x="1217" y="118" key="SettingsEditor/53.23.2507.1057/260.1080.1920.1200@53.23.2507.1057" timestamp="1588693892442" />
-    <state x="1688" y="369" key="com.intellij.ide.util.TipDialog" timestamp="1588691587305">
-      <screen x="60" y="23" width="2500" height="1057" />
+    <state x="1691" y="369" key="com.intellij.ide.util.TipDialog" timestamp="1588751735858">
+      <screen x="68" y="23" width="2492" height="1057" />
     </state>
+    <state x="1691" y="369" key="com.intellij.ide.util.TipDialog/473.1080.1680.1050/68.23.2492.1057@68.23.2492.1057" timestamp="1588751735858" />
     <state x="1688" y="369" key="com.intellij.ide.util.TipDialog/60.23.2500.1057/260.1080.1920.1200@60.23.2500.1057" timestamp="1588691587305" />
     <state x="1714" y="437" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1588693695917">
       <screen x="53" y="23" width="2507" height="1057" />
@@ -142,5 +130,9 @@
       <screen x="68" y="23" width="2492" height="1057" />
     </state>
     <state x="1215" y="234" key="new project wizard/473.1080.1680.1050/68.23.2492.1057@68.23.2492.1057" timestamp="1588646444722" />
+    <state x="1393" y="250" width="670" height="676" key="search.everywhere.popup" timestamp="1588751752042">
+      <screen x="68" y="23" width="2492" height="1057" />
+    </state>
+    <state x="1393" y="250" width="670" height="676" key="search.everywhere.popup/473.1080.1680.1050/68.23.2492.1057@68.23.2492.1057" timestamp="1588751752042" />
   </component>
 </project>
