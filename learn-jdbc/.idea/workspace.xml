@@ -2,7 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bda809ed-6b64-4ac9-a2e0-45eda0e8ffca" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/../JDBCMessageBoard/src/tech/lvjiawen/jdbc/bean/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBCMessageBoard/src/tech/lvjiawen/jdbc/common/ConnectionUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBCMessageBoard/src/tech/lvjiawen/jdbc/dao/MessageDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBCMessageBoard/src/tech/lvjiawen/jdbc/service/MessageService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBCMessageBoard/src/tech/lvjiawen/jdbc/servlet/MessageListServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBCMessageBoard/web/WEB-INF/views/biz/add_message.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBCMessageBoard/web/WEB-INF/views/biz/edit_user.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBCMessageBoard/web/WEB-INF/views/biz/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBCMessageBoard/web/WEB-INF/views/biz/message_list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBCMessageBoard/web/WEB-INF/views/biz/user.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBCMessageBoard/web/WEB-INF/views/error/404.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBCMessageBoard/web/WEB-INF/views/error/500.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBCMessageBoard/web/css/add.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBCMessageBoard/web/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBCMessageBoard/web/css/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBCMessageBoard/web/css/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBCMessageBoard/web/css/reg.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBCMessageBoard/web/img/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBCMessageBoard/web/img/QQ-weixin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../geektime/第2章 Java面向对象编程/51. 初探反射/code/src/com/geekbang/reflect/ClassTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../geektime/第2章 Java面向对象编程/51. 初探反射/code/src/com/geekbang/reflect/ConstructorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../geektime/第2章 Java面向对象编程/51. 初探反射/code/src/com/geekbang/reflect/FieldTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../geektime/第2章 Java面向对象编程/51. 初探反射/code/src/com/geekbang/reflect/MethodTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../geektime/第2章 Java面向对象编程/51. 初探反射/code/src/com/geekbang/reflect/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/c3p0_0_9_5_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learnJDBC/src/c3p0-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learnJDBC/src/tech/lvjiawen/jdbc/demo/JDBCDemo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learnJDBC/src/tech/lvjiawen/jdbc/pool/DataSourceDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learnJDBC/src/tech/lvjiawen/jdbc/utils/JDBCUtils2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../geektime/第2章 Java面向对象编程/51. 初探反射/code/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../geektime/第2章 Java面向对象编程/51. 初探反射/code/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../geektime/第2章 Java面向对象编程/51. 初探反射/code/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../geektime/第2章 Java面向对象编程/51. 初探反射/code/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../geektime/第2章 Java面向对象编程/51. 初探反射/code/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../geektime/第2章 Java面向对象编程/51. 初探反射/code/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../geektime/第2章 Java面向对象编程/51. 初探反射/code/code.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../geektime/第2章 Java面向对象编程/51. 初探反射/code/code.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn-jdbc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/learn-jdbc.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,24 +66,56 @@
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/learnJDBC/lib" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="JUnit.JDBCDemo4.demo2">
-    <configuration name="JDBCDemo1.demo1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/learnJDBC/lib" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/learnJDBC/lib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.DataSourceDemo1.demo2">
+    <configuration name="DataSourceDemo1.demo1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="learn-jdbc" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="JDBCDemo1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tech.lvjiawen.jdbc.pool.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tech.lvjiawen.jdbc.pool" />
+      <option name="MAIN_CLASS_NAME" value="tech.lvjiawen.jdbc.pool.DataSourceDemo1" />
       <option name="METHOD_NAME" value="demo1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JDBCDemo4.demo2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="DataSourceDemo1.demo2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="learn-jdbc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tech.lvjiawen.jdbc.pool.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tech.lvjiawen.jdbc.pool" />
+      <option name="MAIN_CLASS_NAME" value="tech.lvjiawen.jdbc.pool.DataSourceDemo1" />
+      <option name="METHOD_NAME" value="demo2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JDBCDemo5.delete" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="learn-jdbc" />
       <extension name="coverage">
         <pattern>
@@ -58,8 +124,40 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="tech.lvjiawen.jdbc.demo" />
-      <option name="MAIN_CLASS_NAME" value="tech.lvjiawen.jdbc.demo.JDBCDemo4" />
-      <option name="METHOD_NAME" value="demo2" />
+      <option name="MAIN_CLASS_NAME" value="tech.lvjiawen.jdbc.demo.JDBCDemo5" />
+      <option name="METHOD_NAME" value="delete" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JDBCDemo5.edit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="learn-jdbc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tech.lvjiawen.jdbc.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tech.lvjiawen.jdbc.demo" />
+      <option name="MAIN_CLASS_NAME" value="tech.lvjiawen.jdbc.demo.JDBCDemo5" />
+      <option name="METHOD_NAME" value="edit" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JDBCDemo5.query" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="learn-jdbc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tech.lvjiawen.jdbc.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tech.lvjiawen.jdbc.demo" />
+      <option name="MAIN_CLASS_NAME" value="tech.lvjiawen.jdbc.demo.JDBCDemo5" />
+      <option name="METHOD_NAME" value="query" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -67,8 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.JDBCDemo4.demo2" />
-        <item itemvalue="JUnit.JDBCDemo1.demo1" />
+        <item itemvalue="JUnit.DataSourceDemo1.demo2" />
+        <item itemvalue="JUnit.DataSourceDemo1.demo1" />
+        <item itemvalue="JUnit.JDBCDemo5.query" />
+        <item itemvalue="JUnit.JDBCDemo5.delete" />
+        <item itemvalue="JUnit.JDBCDemo5.edit" />
       </list>
     </recent_temporary>
   </component>
@@ -85,6 +186,11 @@
       <workItem from="1588645682290" duration="843000" />
       <workItem from="1588691586204" duration="3339000" />
       <workItem from="1588751736816" duration="695000" />
+      <workItem from="1588776195834" duration="2482000" />
+      <workItem from="1588815652884" duration="624000" />
+      <workItem from="1588899457429" duration="5614000" />
+      <workItem from="1588994642019" duration="657000" />
+      <workItem from="1589004697551" duration="597000" />
     </task>
     <servers />
   </component>
@@ -92,35 +198,59 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1416" height="280" key="GridCell.Tab.0.bottom" timestamp="1588695113948">
-      <screen x="52" y="23" width="2508" height="1057" />
+    <state width="1163" height="280" key="GridCell.Tab.0.bottom" timestamp="1588924104268">
+      <screen x="60" y="23" width="2500" height="1057" />
     </state>
+    <state width="1163" height="280" key="GridCell.Tab.0.bottom/473.1080.1680.1050/60.23.2500.1057@60.23.2500.1057" timestamp="1588924104268" />
+    <state width="1163" height="280" key="GridCell.Tab.0.bottom/473.1080.1680.1050/65.23.2495.1057@65.23.2495.1057" timestamp="1588903940172" />
+    <state width="1163" height="280" key="GridCell.Tab.0.bottom/473.1080.1680.1050/69.23.2491.1057@69.23.2491.1057" timestamp="1588902207835" />
     <state width="1416" height="280" key="GridCell.Tab.0.bottom/52.23.2508.1057/260.1080.1920.1200@52.23.2508.1057" timestamp="1588695113948" />
     <state width="1416" height="280" key="GridCell.Tab.0.bottom/53.23.2507.1057/260.1080.1920.1200@53.23.2507.1057" timestamp="1588694987097" />
-    <state width="1416" height="280" key="GridCell.Tab.0.center" timestamp="1588695113947">
-      <screen x="52" y="23" width="2508" height="1057" />
+    <state width="1163" height="280" key="GridCell.Tab.0.bottom/60.23.2500.1057/260.1080.1920.1200@60.23.2500.1057" timestamp="1588777462033" />
+    <state width="1163" height="280" key="GridCell.Tab.0.bottom/65.23.2495.1057/260.1080.1920.1200@65.23.2495.1057" timestamp="1588780889747" />
+    <state width="1163" height="280" key="GridCell.Tab.0.center" timestamp="1588924104267">
+      <screen x="60" y="23" width="2500" height="1057" />
     </state>
+    <state width="1163" height="280" key="GridCell.Tab.0.center/473.1080.1680.1050/60.23.2500.1057@60.23.2500.1057" timestamp="1588924104267" />
+    <state width="1163" height="280" key="GridCell.Tab.0.center/473.1080.1680.1050/65.23.2495.1057@65.23.2495.1057" timestamp="1588903940171" />
+    <state width="1163" height="280" key="GridCell.Tab.0.center/473.1080.1680.1050/69.23.2491.1057@69.23.2491.1057" timestamp="1588902207834" />
     <state width="1416" height="280" key="GridCell.Tab.0.center/52.23.2508.1057/260.1080.1920.1200@52.23.2508.1057" timestamp="1588695113947" />
     <state width="1416" height="280" key="GridCell.Tab.0.center/53.23.2507.1057/260.1080.1920.1200@53.23.2507.1057" timestamp="1588694987096" />
-    <state width="1416" height="280" key="GridCell.Tab.0.left" timestamp="1588695113947">
-      <screen x="52" y="23" width="2508" height="1057" />
+    <state width="1163" height="280" key="GridCell.Tab.0.center/60.23.2500.1057/260.1080.1920.1200@60.23.2500.1057" timestamp="1588777462031" />
+    <state width="1163" height="280" key="GridCell.Tab.0.center/65.23.2495.1057/260.1080.1920.1200@65.23.2495.1057" timestamp="1588780889746" />
+    <state width="1163" height="280" key="GridCell.Tab.0.left" timestamp="1588924104267">
+      <screen x="60" y="23" width="2500" height="1057" />
     </state>
+    <state width="1163" height="280" key="GridCell.Tab.0.left/473.1080.1680.1050/60.23.2500.1057@60.23.2500.1057" timestamp="1588924104267" />
+    <state width="1163" height="280" key="GridCell.Tab.0.left/473.1080.1680.1050/65.23.2495.1057@65.23.2495.1057" timestamp="1588903940170" />
+    <state width="1163" height="280" key="GridCell.Tab.0.left/473.1080.1680.1050/69.23.2491.1057@69.23.2491.1057" timestamp="1588902207833" />
     <state width="1416" height="280" key="GridCell.Tab.0.left/52.23.2508.1057/260.1080.1920.1200@52.23.2508.1057" timestamp="1588695113947" />
     <state width="1416" height="280" key="GridCell.Tab.0.left/53.23.2507.1057/260.1080.1920.1200@53.23.2507.1057" timestamp="1588694987095" />
-    <state width="1416" height="280" key="GridCell.Tab.0.right" timestamp="1588695113948">
-      <screen x="52" y="23" width="2508" height="1057" />
+    <state width="1163" height="280" key="GridCell.Tab.0.left/60.23.2500.1057/260.1080.1920.1200@60.23.2500.1057" timestamp="1588777462031" />
+    <state width="1163" height="280" key="GridCell.Tab.0.left/65.23.2495.1057/260.1080.1920.1200@65.23.2495.1057" timestamp="1588780889746" />
+    <state width="1163" height="280" key="GridCell.Tab.0.right" timestamp="1588924104268">
+      <screen x="60" y="23" width="2500" height="1057" />
     </state>
+    <state width="1163" height="280" key="GridCell.Tab.0.right/473.1080.1680.1050/60.23.2500.1057@60.23.2500.1057" timestamp="1588924104268" />
+    <state width="1163" height="280" key="GridCell.Tab.0.right/473.1080.1680.1050/65.23.2495.1057@65.23.2495.1057" timestamp="1588903940171" />
+    <state width="1163" height="280" key="GridCell.Tab.0.right/473.1080.1680.1050/69.23.2491.1057@69.23.2491.1057" timestamp="1588902207834" />
     <state width="1416" height="280" key="GridCell.Tab.0.right/52.23.2508.1057/260.1080.1920.1200@52.23.2508.1057" timestamp="1588695113948" />
     <state width="1416" height="280" key="GridCell.Tab.0.right/53.23.2507.1057/260.1080.1920.1200@53.23.2507.1057" timestamp="1588694987096" />
-    <state x="1217" y="118" key="SettingsEditor" timestamp="1588693892442">
-      <screen x="53" y="23" width="2507" height="1057" />
+    <state width="1163" height="280" key="GridCell.Tab.0.right/60.23.2500.1057/260.1080.1920.1200@60.23.2500.1057" timestamp="1588777462032" />
+    <state width="1163" height="280" key="GridCell.Tab.0.right/65.23.2495.1057/260.1080.1920.1200@65.23.2495.1057" timestamp="1588780889747" />
+    <state x="1225" y="118" key="SettingsEditor" timestamp="1588899545546">
+      <screen x="69" y="23" width="2491" height="1057" />
     </state>
+    <state x="1225" y="118" key="SettingsEditor/473.1080.1680.1050/69.23.2491.1057@69.23.2491.1057" timestamp="1588899545546" />
     <state x="1217" y="118" key="SettingsEditor/53.23.2507.1057/260.1080.1920.1200@53.23.2507.1057" timestamp="1588693892442" />
-    <state x="1691" y="369" key="com.intellij.ide.util.TipDialog" timestamp="1588751735858">
-      <screen x="68" y="23" width="2492" height="1057" />
+    <state x="1223" y="118" key="SettingsEditor/65.23.2495.1057/260.1080.1920.1200@65.23.2495.1057" timestamp="1588778232552" />
+    <state x="1689" y="369" key="com.intellij.ide.util.TipDialog" timestamp="1589005882335">
+      <screen x="65" y="23" width="2495" height="1057" />
     </state>
-    <state x="1691" y="369" key="com.intellij.ide.util.TipDialog/473.1080.1680.1050/68.23.2492.1057@68.23.2492.1057" timestamp="1588751735858" />
-    <state x="1688" y="369" key="com.intellij.ide.util.TipDialog/60.23.2500.1057/260.1080.1920.1200@60.23.2500.1057" timestamp="1588691587305" />
+    <state x="1689" y="369" key="com.intellij.ide.util.TipDialog/473.1080.1680.1050/65.23.2495.1057@65.23.2495.1057" timestamp="1589005882335" />
+    <state x="1691" y="369" key="com.intellij.ide.util.TipDialog/473.1080.1680.1050/68.23.2492.1057@68.23.2492.1057" timestamp="1588815652976" />
+    <state x="1691" y="369" key="com.intellij.ide.util.TipDialog/473.1080.1680.1050/69.23.2491.1057@69.23.2491.1057" timestamp="1588899472598" />
+    <state x="1689" y="369" key="com.intellij.ide.util.TipDialog/60.23.2500.1057/260.1080.1920.1200@60.23.2500.1057" timestamp="1588776205991" />
     <state x="1714" y="437" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1588693695917">
       <screen x="53" y="23" width="2507" height="1057" />
     </state>
@@ -130,9 +260,9 @@
       <screen x="68" y="23" width="2492" height="1057" />
     </state>
     <state x="1215" y="234" key="new project wizard/473.1080.1680.1050/68.23.2492.1057@68.23.2492.1057" timestamp="1588646444722" />
-    <state x="1393" y="250" width="670" height="676" key="search.everywhere.popup" timestamp="1588751752042">
+    <state x="1393" y="250" width="670" height="676" key="search.everywhere.popup" timestamp="1588815661199">
       <screen x="68" y="23" width="2492" height="1057" />
     </state>
-    <state x="1393" y="250" width="670" height="676" key="search.everywhere.popup/473.1080.1680.1050/68.23.2492.1057@68.23.2492.1057" timestamp="1588751752042" />
+    <state x="1393" y="250" width="670" height="676" key="search.everywhere.popup/473.1080.1680.1050/68.23.2492.1057@68.23.2492.1057" timestamp="1588815661199" />
   </component>
 </project>
