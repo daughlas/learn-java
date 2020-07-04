@@ -43,7 +43,7 @@
         <servlet-class>tech.lvjiawen.jdbc.servlet.VerificationCodeImageServlet</servlet-class>
     </servlet>
 
-    
+
     <servlet>
         <servlet-name>UserServlet</servlet-name>
         <servlet-class>tech.lvjiawen.jdbc.servlet.UserServlet</servlet-class>
